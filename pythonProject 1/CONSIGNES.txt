@@ -1,0 +1,4 @@
+Ici le programme marche
+Mais jai pas fait en sorte que si on entre zero, le code refuse ca
+
+NB: SIMPLEMENT PARCK ZERO EST A LA FOIS PAIR ET IMPAIR
